@@ -22,7 +22,7 @@ public class ArrayMultidimensiTambahanNilai {
        
         switch (pilihan){
             case 1 : 
-                System.out.println("\nMakanan khas negara " + makanan [6][0] + " adalah " + makanan [0][1]);
+                System.out.println("\nMakanan khas negara " + makanan [0][0] + " adalah " + makanan [0][1]);
                 break;
             case 2 :
                 System.out.println("\nMakanan khas negara " + makanan [1][0] + " adalah " + makanan [1][1]);
